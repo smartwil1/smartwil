@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209912940395",
+    "project_id": "wisuda-7467d",
+    "storage_bucket": "wisuda-7467d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209912940395:android:064aae90919565cc68ae2e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209912940395-ganjersj4r74t4setbsklkd5fqjbg3rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLI-jKeYvJABj-1ZdO0sX7URaS85Tie0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209912940395-ganjersj4r74t4setbsklkd5fqjbg3rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
